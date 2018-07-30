@@ -103,4 +103,4 @@ actions:
           basePath: ${settings.path}
           type: ${this.type}
         region: ${env.hardwareNodeGroup}
-success: text/success.md
+success: /text/success.md
